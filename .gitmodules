@@ -1,3 +1,78 @@
 [submodule "XPDF"]
 	path = XPDF
 	url = https://github.com/horsicq/XPDF
+[submodule "XCppfilt"]
+	path = XCppfilt
+	url = https://github.com/horsicq/XCppfilt
+[submodule "Formats"]
+	path = Formats
+	url = https://github.com/horsicq/Formats
+[submodule "StaticScan"]
+	path = StaticScan
+	url = https://github.com/horsicq/StaticScan
+[submodule "SpecAbstract"]
+	path = SpecAbstract
+	url = https://github.com/horsicq/SpecAbstract
+[submodule "XArchive"]
+	path = XArchive
+	url = https://github.com/horsicq/XArchive
+[submodule "XDEX"]
+	path = XDEX
+	url = https://github.com/horsicq/XDEX
+[submodule "XOptions"]
+	path = XOptions
+	url = https://github.com/horsicq/XOptions
+[submodule "XStyles"]
+	path = XStyles
+	url = https://github.com/horsicq/XStyles
+[submodule "XTranslation"]
+	path = XTranslation
+	url = https://github.com/horsicq/XTranslation
+[submodule "XHashWidget"]
+	path = XHashWidget
+	url = https://github.com/horsicq/XHashWidget
+[submodule "XCapstone"]
+	path = XCapstone
+	url = https://github.com/horsicq/XCapstone
+[submodule "archive_widget"]
+	path = archive_widget
+	url = https://github.com/horsicq/archive_widget
+[submodule "Controls"]
+	path = Controls
+	url = https://github.com/horsicq/Controls
+[submodule "FormatDialogs"]
+	path = FormatDialogs
+	url = https://github.com/horsicq/FormatDialogs
+[submodule "FormatWidgets"]
+	path = FormatWidgets
+	url = https://github.com/horsicq/FormatWidgets
+[submodule "XHexView"]
+	path = XHexView
+	url = https://github.com/horsicq/XHexView
+[submodule "XDisasmView"]
+	path = XDisasmView
+	url = https://github.com/horsicq/XDisasmView
+[submodule "XEntropyWidget"]
+	path = XEntropyWidget
+	url = https://github.com/horsicq/XEntropyWidget
+[submodule "XMemoryMapWidget"]
+	path = XMemoryMapWidget
+	url = https://github.com/horsicq/XMemoryMapWidget
+[submodule "XQwt"]
+	path = XQwt
+	url = https://github.com/horsicq/XQwt
+[submodule "XShortcuts"]
+	path = XShortcuts
+	url = https://github.com/horsicq/XShortcuts
+[submodule "signatures"]
+	path = signatures
+	url = https://github.com/horsicq/signatures
+[submodule "XDemangle"]
+	path = XDemangle
+	url = https://github.com/horsicq/XDemangle
+[submodule "XDemangleWidget"]
+	path = XDemangleWidget
+	url = https://github.com/horsicq/XDemangleWidget
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/horsicq/build_tools
