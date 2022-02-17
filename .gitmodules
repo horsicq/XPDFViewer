@@ -76,3 +76,15 @@
 [submodule "build_tools"]
 	path = build_tools
 	url = https://github.com/horsicq/build_tools
+[submodule "XDynStructs"]
+	path = XDynStructs
+	url = https://github.com/horsicq/XDynStructs
+[submodule "XDynStructsEngine"]
+	path = XDynStructsEngine
+	url = https://github.com/horsicq/XDynStructsEngine
+[submodule "XDynStructsWidget"]
+	path = XDynStructsWidget
+	url = https://github.com/horsicq/XDynStructsWidget
+[submodule "XFileInfo"]
+	path = XFileInfo
+	url = https://github.com/horsicq/XFileInfo
