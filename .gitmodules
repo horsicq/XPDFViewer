@@ -88,3 +88,6 @@
 [submodule "XFileInfo"]
 	path = XFileInfo
 	url = https://github.com/horsicq/XFileInfo
+[submodule "XHexEdit"]
+	path = XHexEdit
+	url = https://github.com/horsicq/XHexEdit
